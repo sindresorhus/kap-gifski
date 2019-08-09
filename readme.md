@@ -12,4 +12,4 @@ In the `Kap` menu, go to `Preferences…`, select the `Plugins` pane, find this 
 
 ## Usage
 
-In the editor, after recording, select `GIF`, and then `Export with Gifski`.
+In the editor, after recording, select `GIF`, and then `Export With Gifski`.

@@ -30,7 +30,7 @@ const action = async context => {
 };
 
 const gifski = {
-	title: 'Export with Gifski',
+	title: 'Export With Gifski',
 	formats: [
 		'gif'
 	],
