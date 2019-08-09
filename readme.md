@@ -7,7 +7,7 @@
 
 ## Install
 
-In the `Kap` menu, go to `Preferences…`, select the `Plugins` pane, find this plugin, and click `Install`.
+In the `Kap` menu, go to `Preferences…`, select the `Plugins` pane, find this plugin, and toggle it.
 
 
 ## Usage
