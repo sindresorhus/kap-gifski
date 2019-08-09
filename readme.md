@@ -1,4 +1,4 @@
-# kap-giphy [![Build Status](https://travis-ci.org/wulkano/kap-giphy.svg?branch=master)](https://travis-ci.org/wulkano/kap-giphy)
+# kap-gifski [![Build Status](https://travis-ci.org/wulkano/kap-gifski.svg?branch=master)](https://travis-ci.org/wulkano/kap-gifski)
 
 > [Kap](https://github.com/wulkano/kap) plugin - Export to high-quality GIFs using [Gifski](https://github.com/sindresorhus/Gifski)
 
@@ -12,4 +12,4 @@ In the `Kap` menu, go to `Preferences…`, select the `Plugins` pane, find this 
 
 ## Usage
 
-In the editor, after recording, select `GIF`, and then `Export With Gifski`.
+In the editor, after recording, select `GIF`, and then `Export with Gifski`.
