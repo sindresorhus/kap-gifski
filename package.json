@@ -1,7 +1,7 @@
 {
 	"name": "kap-gifski",
 	"version": "0.0.1",
-	"description": "Export to high-quality GIFs using Gifski (Requires Kap 3.0.0-beta.7 or later)",
+	"description": "Export to high-quality GIFs using Gifski (Requires Kap 3 or later)",
 	"license": "MIT",
 	"repository": "sindresorhus/kap-gifski",
 	"author": {
@@ -16,7 +16,7 @@
 		"index.js"
 	],
 	"keywords": [
-		"kap-plugin-TODO-REMOVE-THIS-WHEN-NEW-KAP-VERSION-IS-OUT",
+		"kap-plugin",
 		"gifski",
 		"gif",
 		"export",
@@ -29,7 +29,7 @@
 	"devDependencies": {
 		"ava": "^2.2.0",
 		"kap-plugin-test": "^0.5.0",
-		"xo": "^0.24.0"
+		"xo": "^0.25.3"
 	},
-	"kapVersion": ">=3.0.0-beta.7"
+	"kapVersion": ">=3.0.0"
 }
