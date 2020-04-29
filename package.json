@@ -1,13 +1,13 @@
 {
 	"name": "kap-gifski",
 	"version": "1.0.0",
-	"description": "Export to high-quality GIFs using Gifski (Requires Kap 3 or later)",
+	"description": "Export to high-quality GIFs using Gifski",
 	"license": "MIT",
 	"repository": "sindresorhus/kap-gifski",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"url": "https://sindresorhus.com"
 	},
 	"scripts": {
 		"test": "xo && ava"
@@ -29,7 +29,7 @@
 	"devDependencies": {
 		"ava": "^2.2.0",
 		"kap-plugin-test": "^0.5.0",
-		"xo": "^0.25.3"
+		"xo": "^0.30.0"
 	},
 	"kapVersion": ">=3.0.0"
 }
