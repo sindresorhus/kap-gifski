@@ -1,6 +1,6 @@
 {
 	"name": "kap-gifski",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Export to high-quality GIFs using Gifski",
 	"license": "MIT",
 	"repository": "sindresorhus/kap-gifski",
