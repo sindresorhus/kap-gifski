@@ -31,5 +31,8 @@
 		"kap-plugin-test": "^0.5.0",
 		"xo": "^0.30.0"
 	},
-	"kapVersion": ">=3.0.0"
+	"kap": {
+		"kapVersion": ">=3.0.0",
+		"macosVersion": ">=10.14.4"
+	}
 }
