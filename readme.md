@@ -1,4 +1,4 @@
-# kap-gifski [![Build Status](https://travis-ci.com/sindresorhus/kap-gifski.svg?branch=master)](https://travis-ci.com/sindresorhus/kap-gifski)
+# kap-gifski
 
 > [Kap](https://github.com/wulkano/kap) plugin - Export to high-quality GIFs using [Gifski](https://github.com/sindresorhus/Gifski)
 
